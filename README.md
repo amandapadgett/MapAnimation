@@ -1,5 +1,7 @@
 # Real Time Bus Tracker
 
+<a class="dropdown-item" href="https://amandapadgett.github.io/MapAnimation/">Run the Real Time Bus Tracker</a>
+
 ## Description:
 
 This project uses Mapbox map overlay, along with actual latitude and longitude coordinates of bus stops, to show all stops the between MIT and Harvard.
