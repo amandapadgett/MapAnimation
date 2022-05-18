@@ -22,8 +22,6 @@ Editing this to add that I did make a map tour of the places I spent a lot of ti
 
 <a href="https://github.com/amandapadgett/MapAnimation/blob/main/LICENSE">MIT License</a>
 
-#MIT License
-
 Copyright (c) 2022 MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
