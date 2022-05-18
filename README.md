@@ -1,4 +1,6 @@
-<img src="https://github.com/amandapadgett/MapAnimation/blob/main/Bus_Stops_MITandHarvard.png" width="500" height="auto" /># Real Time Bus Tracker
+<img src="https://github.com/amandapadgett/MapAnimation/blob/main/Bus_Stops_MITandHarvard.png" width="500" height="auto" />
+
+# Real Time Bus Tracker
 
 ## Description:
 
