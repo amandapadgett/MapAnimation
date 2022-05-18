@@ -4,7 +4,7 @@
 
 ## Description:
 
-This project uses Mapbox map overlay, along with actual latitude and longitude coordinates of bus stops, to show all stops the between MIT and Harvard.
+This project uses Mapbox map overlay, along with actual latitude and longitude coordinates of bus stops retrieved from MBTA website(Massachusetts Bay Transportation Authority), to show all stops the between MIT and Harvard.
 
 ## How to Run:
 
